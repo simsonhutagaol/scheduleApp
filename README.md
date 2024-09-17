@@ -24,7 +24,7 @@ To get started with Schedule App, clone the repository and follow the setup inst
 
 ### Clone the Repository:
 
-- git clone https://github.com/yourusername/schedule-app.git
+- git clone https://github.com/simsonhutagaol/scheduleApp.git
 
 ### Navigate to the Project Directory:
 
